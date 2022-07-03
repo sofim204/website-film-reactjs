@@ -12,7 +12,7 @@ const Superhero = () => {
             <Container id="superhero">
                 <Row>
                     <h1 className="text-white my-4">Superhero Movies</h1>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={superheroImage1} alt="Spiderman" className="card-images" />
                             <div className="bg-dark">
@@ -28,7 +28,7 @@ const Superhero = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={superheroImage2} alt="The Avemgers" className="card-images" />
                             <div className="bg-dark">
@@ -44,7 +44,7 @@ const Superhero = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={superheroImage3} alt="Daredevil" className="card-images" />
                             <div className="bg-dark">
@@ -60,7 +60,7 @@ const Superhero = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={superheroImage4} alt="Ironman" className="card-images" />
                             <div className="bg-dark">
@@ -76,7 +76,7 @@ const Superhero = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={superheroImage5} alt="Black Panther" className="card-images" />
                             <div className="bg-dark">
@@ -92,7 +92,7 @@ const Superhero = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={superheroImage6} alt="Ant-Man" className="card-images" />
                             <div className="bg-dark">

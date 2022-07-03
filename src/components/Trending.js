@@ -12,7 +12,7 @@ const Trending = () => {
             <Container id="trending">
                 <Row>
                     <h1 className="text-white my-4">Trending Movies</h1>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={trendingImage1} alt="3 Idiots" className="card-images" />
                             <div className="bg-dark">
@@ -28,7 +28,7 @@ const Trending = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={trendingImage2} alt="Dead Man's Chest" className="card-images" />
                             <div className="bg-dark">
@@ -44,7 +44,7 @@ const Trending = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={trendingImage3} alt="The Avengers" className="card-images" />
                             <div className="bg-dark">
@@ -60,7 +60,7 @@ const Trending = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={trendingImage4} alt="Morbius" className="card-images" />
                             <div className="bg-dark">
@@ -76,7 +76,7 @@ const Trending = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={trendingImage5} alt="The Medium" className="card-images" />
                             <div className="bg-dark">
@@ -92,7 +92,7 @@ const Trending = () => {
                             </div>
                         </Card>
                     </Col>
-                    <Col md={4} className="trending-wrapper mb-3">
+                    <Col md={4} className="mb-3">
                         <Card className="bg-white card-wrapper">
                             <Image src={trendingImage6} alt="Train to Busan" className="card-images" />
                             <div className="bg-dark">
