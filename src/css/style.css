@@ -1,0 +1,48 @@
+.main-background {
+    height: 100vh;
+    background: url("../assets/images/bg/main_bg.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 450px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.intro-title {
+    font-size: 3rem;
+    font-weight: bold;
+    line-height: 1;
+    text-shadow: 3px 3px #000000;
+    letter-spacing: 4px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+.trending-section {
+    height: auto;
+    background: url("../assets/images/bg/scifi.jpg");
+    background-size: cover;
+}
+
+.superhero-section {
+    height: auto;
+    background: url("../assets/images/bg/superhero.jpg");
+    background-size: cover;
+}
+
+.card-wrapper {
+    height: auto;
+    margin: 2x;
+    padding: 2px;
+}
+
+.card-images {
+    height: 400px;
+}
+
+.trending-wrapper {
+
+}
