@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/website-film-reactjs/static/css/main.307e4796.css",
+    "main.js": "/website-film-reactjs/static/js/main.2be311f0.js",
+    "static/js/787.e4ac27d7.chunk.js": "/website-film-reactjs/static/js/787.e4ac27d7.chunk.js",
+    "static/media/superhero_1.jpg": "/website-film-reactjs/static/media/superhero_1.4759dc17ead2fc57e963.jpg",
+    "static/media/trending_2.jpg": "/website-film-reactjs/static/media/trending_2.f841fce57eaa8d936a77.jpg",
+    "static/media/scifi.jpg": "/website-film-reactjs/static/media/scifi.9923bd5062208659d904.jpg",
+    "static/media/superhero.jpg": "/website-film-reactjs/static/media/superhero.955954ad8fdafd6f690f.jpg",
+    "static/media/main_bg.jpg": "/website-film-reactjs/static/media/main_bg.e84aa282620e8dedb6a3.jpg",
+    "static/media/trending_1.jpg": "/website-film-reactjs/static/media/trending_1.b964b1e79ffadc165f9b.jpg",
+    "static/media/superhero_6.jpg": "/website-film-reactjs/static/media/superhero_6.97dbbf74423b4c2686ef.jpg",
+    "static/media/superhero_4.jpg": "/website-film-reactjs/static/media/superhero_4.6dd2b2562921210f9ffa.jpg",
+    "static/media/superhero_2.jpg": "/website-film-reactjs/static/media/superhero_2.fb399ea0f4855b7426a6.jpg",
+    "static/media/trending_3.jpg": "/website-film-reactjs/static/media/trending_3.fb399ea0f4855b7426a6.jpg",
+    "static/media/trending_5.jpg": "/website-film-reactjs/static/media/trending_5.0eb0e805710d59225ccb.jpg",
+    "static/media/superhero_5.jpg": "/website-film-reactjs/static/media/superhero_5.46145f49c7318a55c356.jpg",
+    "static/media/trending_6.jpg": "/website-film-reactjs/static/media/trending_6.b220d4de20d9c31b020b.jpg",
+    "static/media/trending_4.jpg": "/website-film-reactjs/static/media/trending_4.300d30752d914044e685.jpg",
+    "static/media/superhero_3.jpg": "/website-film-reactjs/static/media/superhero_3.997852959f95b80a4d27.jpg",
+    "index.html": "/website-film-reactjs/index.html",
+    "main.307e4796.css.map": "/website-film-reactjs/static/css/main.307e4796.css.map",
+    "main.2be311f0.js.map": "/website-film-reactjs/static/js/main.2be311f0.js.map",
+    "787.e4ac27d7.chunk.js.map": "/website-film-reactjs/static/js/787.e4ac27d7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.307e4796.css",
+    "static/js/main.2be311f0.js"
+  ]
+}
